@@ -1,5 +1,3 @@
-# Sotiris Gypsiotis (ID: 22983)
-
 import os
 import sys
 import random
